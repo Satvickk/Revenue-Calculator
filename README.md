@@ -59,16 +59,6 @@ The application will be available at http://localhost:5173.
 - TailwindCSS: Utility-first CSS framework for fast styling.
 - react-csv: Library for exporting data to CSV files.
 
-## Folder Structure
-
-src/
-├── components/       # React components
-├── pages/            # Page-level components
-├── utils/            # Utility functions
-├── store/            # Redux store configuration
-├── styles/           # TailwindCSS configurations
-
-
 # Dependencies
 
 ## Production
