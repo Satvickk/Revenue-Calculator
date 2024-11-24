@@ -84,5 +84,5 @@ This app uses react-csv for exporting data. The CSV includes:
 - Year
 - Revenue Generated (₹)
 - Revenue Growth (₹)
-- 
+
 Ensure your system or application opening the CSV supports UTF-8 encoding for proper rendering of the Indian Rupee symbol.
